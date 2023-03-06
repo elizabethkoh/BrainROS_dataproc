@@ -1,0 +1,326 @@
+motor sync reset
+motor sync reset
+Time: 10572
+running moveTestNoCamAssist
+L: -3437.746771, R:3437.746771
+Compute | tt: 0, L: -3437.746771, R:3437.746771, yaw: 0.000e+00
+512521 ( 0.00,  0.00,  0.00) PosL: 0.00, goalPosL: -3437.75, posR: 0.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512531 ( 0.00,  0.00,  0.00) PosL: 0.00, goalPosL: -3437.75, posR: 0.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512540 ( 0.00,  0.00,  0.00) PosL: 0.00, goalPosL: -3437.75, posR: 0.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512550 ( 0.00,  0.00,  0.00) PosL: 0.00, goalPosL: -3437.75, posR: 0.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512560 ( 0.06, -0.01,  0.00) PosL: -1.00, goalPosL: -3437.75, posR: 0.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512570 ( 0.11, -0.03, -0.00) PosL: -3.00, goalPosL: -3437.75, posR: 1.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512580 ( 0.17, -0.08, -0.00) PosL: -7.00, goalPosL: -3437.75, posR: 4.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512589 ( 0.22, -0.18, -0.00) PosL: -14.00, goalPosL: -3437.75, posR: 10.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512599 ( 0.28, -0.31, -0.00) PosL: -25.00, goalPosL: -3437.75, posR: 16.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512609 ( 0.39, -0.47, -0.00) PosL: -37.00, goalPosL: -3437.75, posR: 24.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512618 ( 0.39, -0.59, -0.00) PosL: -47.00, goalPosL: -3437.75, posR: 32.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512628 ( 0.28, -0.72, -0.00) PosL: -57.00, goalPosL: -3437.75, posR: 40.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512638 ( 0.17, -0.86, -0.00) PosL: -65.00, goalPosL: -3437.75, posR: 47.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512648 ( 0.11, -1.02, -0.00) PosL: -74.00, goalPosL: -3437.75, posR: 58.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512657 ( 0.11, -1.23, -0.00) PosL: -84.00, goalPosL: -3437.75, posR: 71.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512667 ( 0.06, -1.47, -0.01) PosL: -99.00, goalPosL: -3437.75, posR: 85.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512677 (-0.22, -1.75, -0.01) PosL: -115.00, goalPosL: -3437.75, posR: 99.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512687 (-0.44, -2.02, -0.00) PosL: -132.00, goalPosL: -3437.75, posR: 114.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512696 (-0.61, -2.27, -0.00) PosL: -148.00, goalPosL: -3437.75, posR: 131.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512706 (-0.61, -2.49, -0.00) PosL: -164.00, goalPosL: -3437.75, posR: 148.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512716 (-0.61, -2.72,  0.00) PosL: -181.00, goalPosL: -3437.75, posR: 166.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512726 (-0.55, -2.95,  0.00) PosL: -199.00, goalPosL: -3437.75, posR: 184.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512735 (-0.50, -3.19,  0.01) PosL: -217.00, goalPosL: -3437.75, posR: 202.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512745 (-0.50, -3.46,  0.01) PosL: -237.00, goalPosL: -3437.75, posR: 222.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512755 (-0.55, -3.73,  0.01) PosL: -257.00, goalPosL: -3437.75, posR: 243.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512765 (-0.55, -4.02,  0.01) PosL: -278.00, goalPosL: -3437.75, posR: 265.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512774 (-0.61, -4.31,  0.02) PosL: -299.00, goalPosL: -3437.75, posR: 287.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512784 (-0.66, -4.61,  0.02) PosL: -323.00, goalPosL: -3437.75, posR: 310.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512794 (-0.72, -4.94,  0.02) PosL: -347.00, goalPosL: -3437.75, posR: 336.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512804 (-0.72, -5.27,  0.03) PosL: -373.00, goalPosL: -3437.75, posR: 363.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512813 (-0.77, -5.64,  0.03) PosL: -400.00, goalPosL: -3437.75, posR: 391.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512823 (-0.77, -6.02,  0.04) PosL: -427.00, goalPosL: -3437.75, posR: 419.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512833 (-0.83, -6.40,  0.04) PosL: -455.00, goalPosL: -3437.75, posR: 447.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512843 (-0.88, -6.77,  0.05) PosL: -481.00, goalPosL: -3437.75, posR: 474.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512852 (-0.88, -7.15,  0.05) PosL: -508.00, goalPosL: -3437.75, posR: 501.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512862 (-0.88, -7.51,  0.06) PosL: -535.00, goalPosL: -3437.75, posR: 528.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512872 (-0.94, -7.90,  0.07) PosL: -561.00, goalPosL: -3437.75, posR: 556.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512881 (-0.99, -8.27,  0.07) PosL: -589.00, goalPosL: -3437.75, posR: 584.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512891 (-0.99, -8.66,  0.08) PosL: -617.00, goalPosL: -3437.75, posR: 612.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512901 (-0.99, -9.03,  0.09) PosL: -645.00, goalPosL: -3437.75, posR: 640.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512911 (-1.10, -9.42,  0.09) PosL: -673.00, goalPosL: -3437.75, posR: 668.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512921 (-1.05, -9.82,  0.10) PosL: -701.00, goalPosL: -3437.75, posR: 698.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512930 (-1.05, -10.23,  0.11) PosL: -731.00, goalPosL: -3437.75, posR: 727.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512940 (-1.16, -10.63,  0.12) PosL: -760.00, goalPosL: -3437.75, posR: 757.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512950 (-1.16, -11.05,  0.12) PosL: -789.00, goalPosL: -3437.75, posR: 786.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512959 (-1.27, -11.46,  0.13) PosL: -819.00, goalPosL: -3437.75, posR: 817.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512969 (-1.21, -11.87,  0.14) PosL: -849.00, goalPosL: -3437.75, posR: 846.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512979 (-1.32, -12.29,  0.15) PosL: -878.00, goalPosL: -3437.75, posR: 876.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512989 (-1.27, -12.70,  0.16) PosL: -907.00, goalPosL: -3437.75, posR: 906.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+512998 (-1.32, -13.11,  0.17) PosL: -937.00, goalPosL: -3437.75, posR: 937.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513008 (-1.38, -13.52,  0.18) PosL: -967.00, goalPosL: -3437.75, posR: 968.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513018 (-1.38, -13.94,  0.19) PosL: -997.00, goalPosL: -3437.75, posR: 999.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513028 (-1.38, -14.36,  0.20) PosL: -1028.00, goalPosL: -3437.75, posR: 1030.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513037 (-1.43, -14.78,  0.21) PosL: -1058.00, goalPosL: -3437.75, posR: 1061.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513047 (-1.43, -15.20,  0.22) PosL: -1089.00, goalPosL: -3437.75, posR: 1092.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513057 (-1.43, -15.62,  0.23) PosL: -1119.00, goalPosL: -3437.75, posR: 1123.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513067 (-1.43, -16.04,  0.24) PosL: -1149.00, goalPosL: -3437.75, posR: 1154.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513076 (-1.43, -16.46,  0.25) PosL: -1179.00, goalPosL: -3437.75, posR: 1185.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513086 (-1.49, -16.87,  0.26) PosL: -1209.00, goalPosL: -3437.75, posR: 1216.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513096 (-1.49, -17.29,  0.27) PosL: -1239.00, goalPosL: -3437.75, posR: 1247.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513106 (-1.54, -17.72,  0.28) PosL: -1270.00, goalPosL: -3437.75, posR: 1278.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513115 (-1.54, -18.13,  0.29) PosL: -1301.00, goalPosL: -3437.75, posR: 1308.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513125 (-1.54, -18.57,  0.30) PosL: -1331.00, goalPosL: -3437.75, posR: 1340.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513135 (-1.49, -18.99,  0.32) PosL: -1363.00, goalPosL: -3437.75, posR: 1371.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513145 (-1.49, -19.41,  0.33) PosL: -1394.00, goalPosL: -3437.75, posR: 1402.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513154 (-1.49, -19.84,  0.34) PosL: -1425.00, goalPosL: -3437.75, posR: 1432.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513164 (-1.49, -20.28,  0.35) PosL: -1456.00, goalPosL: -3437.75, posR: 1463.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513174 (-1.49, -20.70,  0.36) PosL: -1487.00, goalPosL: -3437.75, posR: 1494.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513184 (-1.43, -21.12,  0.37) PosL: -1517.00, goalPosL: -3437.75, posR: 1524.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513193 (-1.38, -21.55,  0.38) PosL: -1549.00, goalPosL: -3437.75, posR: 1554.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513203 (-1.38, -21.97,  0.39) PosL: -1579.00, goalPosL: -3437.75, posR: 1584.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513213 (-1.32, -22.38,  0.40) PosL: -1610.00, goalPosL: -3437.75, posR: 1614.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513223 (-1.27, -22.80,  0.41) PosL: -1641.00, goalPosL: -3437.75, posR: 1644.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513232 (-1.21, -23.23,  0.42) PosL: -1672.00, goalPosL: -3437.75, posR: 1674.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513242 (-1.21, -23.65,  0.43) PosL: -1703.00, goalPosL: -3437.75, posR: 1704.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513252 (-1.21, -24.07,  0.44) PosL: -1734.00, goalPosL: -3437.75, posR: 1734.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513261 (-1.10, -24.50,  0.45) PosL: -1765.00, goalPosL: -3437.75, posR: 1764.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513271 (-0.99, -24.93,  0.46) PosL: -1795.00, goalPosL: -3437.75, posR: 1794.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513281 (-0.99, -25.37,  0.46) PosL: -1826.00, goalPosL: -3437.75, posR: 1824.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513291 (-0.83, -25.79,  0.47) PosL: -1857.00, goalPosL: -3437.75, posR: 1854.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513300 (-0.83, -26.22,  0.48) PosL: -1887.00, goalPosL: -3437.75, posR: 1884.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513310 (-0.72, -26.66,  0.48) PosL: -1917.00, goalPosL: -3437.75, posR: 1915.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513320 (-0.66, -27.07,  0.49) PosL: -1947.00, goalPosL: -3437.75, posR: 1945.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513330 (-0.72, -27.49,  0.49) PosL: -1993.00, goalPosL: -3437.75, posR: 1975.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513339 (-0.61, -27.91,  0.50) PosL: -2023.00, goalPosL: -3437.75, posR: 2005.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513349 (-0.61, -28.33,  0.50) PosL: -2052.00, goalPosL: -3437.75, posR: 2035.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513359 (-0.55, -28.76,  0.51) PosL: -2083.00, goalPosL: -3437.75, posR: 2065.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513369 (-0.61, -29.18,  0.51) PosL: -2113.00, goalPosL: -3437.75, posR: 2096.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513378 (-0.61, -29.60,  0.52) PosL: -2143.00, goalPosL: -3437.75, posR: 2126.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513388 (-0.50, -30.04,  0.52) PosL: -2173.00, goalPosL: -3437.75, posR: 2156.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513398 (-0.44, -30.46,  0.52) PosL: -2203.00, goalPosL: -3437.75, posR: 2186.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513408 (-0.39, -30.89,  0.53) PosL: -2233.00, goalPosL: -3437.75, posR: 2216.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513417 (-0.28, -31.32,  0.53) PosL: -2263.00, goalPosL: -3437.75, posR: 2245.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513427 (-0.22, -31.76,  0.53) PosL: -2293.00, goalPosL: -3437.75, posR: 2276.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513437 (-0.11, -32.19,  0.54) PosL: -2323.00, goalPosL: -3437.75, posR: 2305.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513447 (-0.11, -32.61,  0.54) PosL: -2353.00, goalPosL: -3437.75, posR: 2336.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513456 (-0.11, -33.03,  0.54) PosL: -2383.00, goalPosL: -3437.75, posR: 2366.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513466 (-0.11, -33.45,  0.54) PosL: -2413.00, goalPosL: -3437.75, posR: 2396.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513476 (-0.06, -33.86,  0.54) PosL: -2443.00, goalPosL: -3437.75, posR: 2426.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513486 (-0.06, -34.28,  0.54) PosL: -2473.00, goalPosL: -3437.75, posR: 2455.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513495 (-0.06, -34.70,  0.54) PosL: -2502.00, goalPosL: -3437.75, posR: 2484.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513505 (-0.06, -35.12,  0.54) PosL: -2533.00, goalPosL: -3437.75, posR: 2514.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513515 (-0.06, -35.54,  0.54) PosL: -2563.00, goalPosL: -3437.75, posR: 2544.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513525 (-0.06, -35.96,  0.54) PosL: -2593.00, goalPosL: -3437.75, posR: 2574.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513534 (-0.06, -36.36,  0.54) PosL: -2623.00, goalPosL: -3437.75, posR: 2604.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513544 (-0.11, -36.79,  0.54) PosL: -2653.00, goalPosL: -3437.75, posR: 2635.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513554 (-0.00, -37.20,  0.54) PosL: -2683.00, goalPosL: -3437.75, posR: 2666.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513563 ( 0.06, -37.62,  0.54) PosL: -2713.00, goalPosL: -3437.75, posR: 2696.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513573 (-0.00, -38.04,  0.54) PosL: -2743.00, goalPosL: -3437.75, posR: 2726.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513583 ( 0.06, -38.45,  0.54) PosL: -2773.00, goalPosL: -3437.75, posR: 2756.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513593 (-0.00, -38.88,  0.54) PosL: -2803.00, goalPosL: -3437.75, posR: 2785.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513602 (-0.00, -39.30,  0.54) PosL: -2833.00, goalPosL: -3437.75, posR: 2815.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513612 (-0.06, -39.71,  0.54) PosL: -2863.00, goalPosL: -3437.75, posR: 2845.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513622 (-0.06, -40.12,  0.54) PosL: -2893.00, goalPosL: -3437.75, posR: 2874.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513632 (-0.00, -40.53,  0.54) PosL: -2923.00, goalPosL: -3437.75, posR: 2904.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513641 (-0.00, -40.93,  0.54) PosL: -2953.00, goalPosL: -3437.75, posR: 2935.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513651 ( 0.06, -41.33,  0.54) PosL: -2983.00, goalPosL: -3437.75, posR: 2964.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513661 ( 0.06, -41.75,  0.54) PosL: -3012.00, goalPosL: -3437.75, posR: 2994.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513671 ( 0.06, -42.17,  0.54) PosL: -3042.00, goalPosL: -3437.75, posR: 3024.00, goalPosR: 3437.75, goalPosSlowR: 3008.03
+513680 (-0.00, -42.59,  0.54) BotStopping | tt: 0, L: -3073.00, R: 3054.00, rev
+513690 (-0.00, -43.01,  0.54) BotStopping | tt: 0, L: -3103.00, R: 3085.00, rev
+513700 (-0.06, -43.44,  0.54) BotStopping | tt: 0, L: -3133.00, R: 3115.00, rev
+513710 (-0.00, -43.85,  0.54) BotStopping | tt: 0, L: -3163.00, R: 3145.00, rev
+513719 (-0.00, -44.27,  0.54) BotStopping | tt: 0, L: -3193.00, R: 3174.00, rev
+513729 ( 0.06, -44.68,  0.54) BotStopping | tt: 0, L: -3223.00, R: 3204.00, rev
+513739 (-0.06, -45.09,  0.54) BotStopping | tt: 0, L: -3251.00, R: 3234.00, rev
+513749 (-0.11, -45.50,  0.54) BotStopping | tt: 0, L: -3281.00, R: 3262.00, rev
+513758 (-0.06, -45.90,  0.54) BotStopping | tt: 0, L: -3309.00, R: 3290.00, rev
+513768 (-0.11, -46.28,  0.54) BotStop | tt: 0, L: -3336.00, R: 3318.00
+513778 (-0.11, -46.66,  0.55) BotStop | tt: 0, L: -3361.00, R: 3343.00
+513788 (-0.11, -46.96,  0.55) BotStop | tt: 0, L: -3378.00, R: 3358.00
+513797 (-0.22, -47.13,  0.55) BotStop | tt: 0, L: -3387.00, R: 3366.00
+513807 (-0.28, -47.24,  0.55) BotStop | tt: 0, L: -3394.00, R: 3371.00
+513817 (-0.28, -47.32,  0.55) BotStop | tt: 0, L: -3402.00, R: 3376.00
+513826 (-0.33, -47.45,  0.55) BotStop | tt: 0, L: -3410.00, R: 3381.00
+513836 (-0.33, -47.61,  0.55) BotStop | tt: 0, L: -3416.00, R: 3386.00
+513846 (-0.33, -47.79,  0.55) BotStop | tt: 0, L: -3421.00, R: 3392.00
+513856 (-0.39, -47.95,  0.55) BotStop | tt: 0, L: -3425.00, R: 3400.00
+513866 (-0.55, -48.05,  0.55) BotStop | tt: 0, L: -3429.00, R: 3408.00
+513875 (-0.83, -48.12,  0.55) BotStop | tt: 0, L: -3435.00, R: 3418.00
+513885 (-1.05, -48.17,  0.55) BotStop | tt: 0, L: -3441.00, R: 3426.00
+513895 (-1.43, -48.22,  0.55) BotStop | tt: 0, L: -3447.00, R: 3434.00
+513904 (-1.77, -48.28,  0.56) BotStop | tt: 0, L: -3455.00, R: 3441.00
+513914 (-2.04, -48.33,  0.56) BotStop | tt: 0, L: -3462.00, R: 3447.00
+513924 (-2.32, -48.37,  0.56) BotStop | tt: 0, L: -3467.00, R: 3452.00
+513934 (-2.37, -48.42,  0.56) BotStop | tt: 0, L: -3473.00, R: 3456.00
+513943 (-2.32, -48.49,  0.56) BotStop | tt: 0, L: -3477.00, R: 3460.00
+513953 (-2.21, -48.54,  0.57) BotStop | tt: 0, L: -3480.00, R: 3463.00
+513963 (-2.15, -48.59,  0.57) BotStop | tt: 0, L: -3483.00, R: 3465.00
+513973 (-1.99, -48.63,  0.57) BotStop | tt: 0, L: -3486.00, R: 3467.00
+513982 (-1.93, -48.66,  0.57) BotStop | tt: 0, L: -3489.00, R: 3468.00
+513992 (-1.88, -48.68,  0.57) BotStop | tt: 0, L: -3491.00, R: 3469.00
+514002 (-1.77, -48.70,  0.57) BotStop | tt: 0, L: -3493.00, R: 3469.00
+514012 (-1.66, -48.71,  0.57) BotStop | tt: 0, L: -3495.00, R: 3470.00
+514021 (-1.60, -48.73,  0.57) BotStop | tt: 0, L: -3497.00, R: 3470.00
+514031 (-1.43, -48.75,  0.57) BotStop | tt: 0, L: -3500.00, R: 3470.00
+514041 (-1.32, -48.77,  0.57) BotStop | tt: 0, L: -3502.00, R: 3470.00
+514051 (-1.21, -48.78,  0.57) BotStop | tt: 0, L: -3504.00, R: 3470.00
+514060 (-1.16, -48.80,  0.57) BotStop | tt: 0, L: -3507.00, R: 3472.00
+running moveTestNoCamAssist
+L: 3437.746771, R:-3437.746771
+Compute | tt: 0, L: 3437.746771, R:-3437.746771, yaw: 0.000e+00
+514948 ( 90.32, -48.67,  0.64) PosL: -4327.00, goalPosL: -889.25, posR: 2654.00, goalPosR: -783.75, goalPosSlowR: -354.03
+514959 ( 90.26, -48.67,  0.64) PosL: -4327.00, goalPosL: -889.25, posR: 2655.00, goalPosR: -783.75, goalPosSlowR: -354.03
+514968 ( 90.21, -48.67,  0.63) PosL: -4326.00, goalPosL: -889.25, posR: 2655.00, goalPosR: -783.75, goalPosSlowR: -354.03
+514978 ( 90.21, -48.67,  0.63) PosL: -4325.00, goalPosL: -889.25, posR: 2655.00, goalPosR: -783.75, goalPosSlowR: -354.03
+514988 ( 90.10, -48.67,  0.64) PosL: -4324.00, goalPosL: -889.25, posR: 2654.00, goalPosR: -783.75, goalPosSlowR: -354.03
+514997 ( 89.93, -48.67,  0.66) PosL: -4323.00, goalPosL: -889.25, posR: 2654.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515007 ( 89.66, -48.67,  0.70) PosL: -4319.00, goalPosL: -889.25, posR: 2651.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515017 ( 89.38, -48.67,  0.76) PosL: -4314.00, goalPosL: -889.25, posR: 2646.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515027 ( 89.27, -48.67,  0.85) PosL: -4306.00, goalPosL: -889.25, posR: 2636.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515036 ( 89.32, -48.66,  0.98) PosL: -4297.00, goalPosL: -889.25, posR: 2623.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515046 ( 89.60, -48.66,  1.14) PosL: -4285.00, goalPosL: -889.25, posR: 2606.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515056 ( 90.04, -48.66,  1.33) PosL: -4269.00, goalPosL: -889.25, posR: 2588.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515066 ( 90.37, -48.66,  1.54) PosL: -4251.00, goalPosL: -889.25, posR: 2573.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515075 ( 90.54, -48.66,  1.73) PosL: -4229.00, goalPosL: -889.25, posR: 2556.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515085 ( 90.43, -48.66,  1.93) PosL: -4205.00, goalPosL: -889.25, posR: 2540.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515095 ( 90.15, -48.67,  2.13) PosL: -4185.00, goalPosL: -889.25, posR: 2524.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515105 ( 89.77, -48.67,  2.33) PosL: -4167.00, goalPosL: -889.25, posR: 2510.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515114 ( 89.54, -48.67,  2.56) PosL: -4152.00, goalPosL: -889.25, posR: 2499.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515124 ( 89.27, -48.66,  2.80) PosL: -4136.00, goalPosL: -889.25, posR: 2488.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515134 ( 88.99, -48.66,  3.04) PosL: -4119.00, goalPosL: -889.25, posR: 2476.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515144 ( 88.77, -48.66,  3.28) PosL: -4100.00, goalPosL: -889.25, posR: 2460.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515153 ( 88.55, -48.65,  3.52) PosL: -4082.00, goalPosL: -889.25, posR: 2444.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515163 ( 88.44, -48.64,  3.77) PosL: -4063.00, goalPosL: -889.25, posR: 2426.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515173 ( 88.39, -48.64,  4.03) PosL: -4045.00, goalPosL: -889.25, posR: 2408.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515183 ( 88.39, -48.63,  4.29) PosL: -4027.00, goalPosL: -889.25, posR: 2390.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515192 ( 88.39, -48.62,  4.56) PosL: -4007.00, goalPosL: -889.25, posR: 2371.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515202 ( 88.39, -48.62,  4.84) PosL: -3987.00, goalPosL: -889.25, posR: 2352.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515212 ( 88.33, -48.61,  5.14) PosL: -3967.00, goalPosL: -889.25, posR: 2332.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515222 ( 88.33, -48.60,  5.44) PosL: -3945.00, goalPosL: -889.25, posR: 2310.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515231 ( 88.39, -48.59,  5.77) PosL: -3923.00, goalPosL: -889.25, posR: 2287.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515241 ( 88.39, -48.58,  6.11) PosL: -3899.00, goalPosL: -889.25, posR: 2264.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515251 ( 88.39, -48.57,  6.46) PosL: -3874.00, goalPosL: -889.25, posR: 2238.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515261 ( 88.33, -48.56,  6.81) PosL: -3849.00, goalPosL: -889.25, posR: 2213.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515270 ( 88.44, -48.55,  7.16) PosL: -3823.00, goalPosL: -889.25, posR: 2187.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515280 ( 88.44, -48.54,  7.52) PosL: -3797.00, goalPosL: -889.25, posR: 2160.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515290 ( 88.50, -48.53,  7.89) PosL: -3772.00, goalPosL: -889.25, posR: 2134.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515300 ( 88.44, -48.52,  8.28) PosL: -3746.00, goalPosL: -889.25, posR: 2106.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515309 ( 88.50, -48.51,  8.65) PosL: -3719.00, goalPosL: -889.25, posR: 2079.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515319 ( 88.55, -48.50,  9.03) PosL: -3692.00, goalPosL: -889.25, posR: 2051.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515329 ( 88.61, -48.49,  9.42) PosL: -3665.00, goalPosL: -889.25, posR: 2023.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515339 ( 88.61, -48.48,  9.81) PosL: -3637.00, goalPosL: -889.25, posR: 1995.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515348 ( 88.61, -48.47,  10.20) PosL: -3610.00, goalPosL: -889.25, posR: 1967.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515358 ( 88.55, -48.46,  10.60) PosL: -3582.00, goalPosL: -889.25, posR: 1938.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515368 ( 88.55, -48.45,  11.00) PosL: -3553.00, goalPosL: -889.25, posR: 1910.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515377 ( 88.61, -48.44,  11.40) PosL: -3525.00, goalPosL: -889.25, posR: 1880.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515387 ( 88.66, -48.43,  11.80) PosL: -3497.00, goalPosL: -889.25, posR: 1852.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515397 ( 88.66, -48.42,  12.21) PosL: -3468.00, goalPosL: -889.25, posR: 1822.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515407 ( 88.77, -48.41,  12.62) PosL: -3439.00, goalPosL: -889.25, posR: 1792.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515416 ( 88.77, -48.40,  13.04) PosL: -3410.00, goalPosL: -889.25, posR: 1763.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515426 ( 88.72, -48.39,  13.45) PosL: -3381.00, goalPosL: -889.25, posR: 1734.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515436 ( 88.66, -48.38,  13.86) PosL: -3351.00, goalPosL: -889.25, posR: 1704.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515446 ( 88.72, -48.37,  14.27) PosL: -3322.00, goalPosL: -889.25, posR: 1674.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515455 ( 88.72, -48.37,  14.69) PosL: -3293.00, goalPosL: -889.25, posR: 1645.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515465 ( 88.77, -48.36,  15.12) PosL: -3263.00, goalPosL: -889.25, posR: 1615.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515475 ( 88.77, -48.35,  15.55) PosL: -3233.00, goalPosL: -889.25, posR: 1585.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515485 ( 88.83, -48.34,  15.98) PosL: -3203.00, goalPosL: -889.25, posR: 1554.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515494 ( 88.88, -48.33,  16.40) PosL: -3173.00, goalPosL: -889.25, posR: 1524.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515504 ( 88.88, -48.32,  16.83) PosL: -3143.00, goalPosL: -889.25, posR: 1492.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515514 ( 88.88, -48.31,  17.27) PosL: -3112.00, goalPosL: -889.25, posR: 1461.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515524 ( 88.94, -48.30,  17.69) PosL: -3082.00, goalPosL: -889.25, posR: 1430.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515533 ( 88.99, -48.29,  18.12) PosL: -3051.00, goalPosL: -889.25, posR: 1399.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515543 ( 88.99, -48.29,  18.55) PosL: -3021.00, goalPosL: -889.25, posR: 1368.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515553 ( 88.99, -48.28,  18.98) PosL: -2990.00, goalPosL: -889.25, posR: 1336.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515563 ( 89.10, -48.27,  19.42) PosL: -2959.00, goalPosL: -889.25, posR: 1304.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515572 ( 89.10, -48.26,  19.86) PosL: -2928.00, goalPosL: -889.25, posR: 1272.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515582 ( 89.10, -48.26,  20.30) PosL: -2897.00, goalPosL: -889.25, posR: 1240.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515592 ( 89.10, -48.25,  20.73) PosL: -2865.00, goalPosL: -889.25, posR: 1208.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515602 ( 89.21, -48.24,  21.16) PosL: -2834.00, goalPosL: -889.25, posR: 1176.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515611 ( 89.27, -48.24,  21.59) PosL: -2803.00, goalPosL: -889.25, posR: 1144.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515621 ( 89.27, -48.23,  22.02) PosL: -2771.00, goalPosL: -889.25, posR: 1113.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515631 ( 89.21, -48.23,  22.45) PosL: -2741.00, goalPosL: -889.25, posR: 1082.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515641 ( 89.21, -48.22,  22.87) PosL: -2710.00, goalPosL: -889.25, posR: 1052.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515650 ( 89.27, -48.22,  23.29) PosL: -2679.00, goalPosL: -889.25, posR: 1022.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515660 ( 89.21, -48.21,  23.72) PosL: -2649.00, goalPosL: -889.25, posR: 992.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515670 ( 89.10, -48.21,  24.14) PosL: -2618.00, goalPosL: -889.25, posR: 962.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515679 ( 89.10, -48.20,  24.56) PosL: -2587.00, goalPosL: -889.25, posR: 932.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515689 ( 89.10, -48.19,  24.97) PosL: -2557.00, goalPosL: -889.25, posR: 903.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515699 ( 89.10, -48.19,  25.39) PosL: -2527.00, goalPosL: -889.25, posR: 873.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515709 ( 89.10, -48.18,  25.81) PosL: -2496.00, goalPosL: -889.25, posR: 843.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515719 ( 89.16, -48.17,  26.24) PosL: -2465.00, goalPosL: -889.25, posR: 812.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515728 ( 89.21, -48.17,  26.65) PosL: -2435.00, goalPosL: -889.25, posR: 782.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515738 ( 89.32, -48.16,  27.07) PosL: -2405.00, goalPosL: -889.25, posR: 752.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515748 ( 89.32, -48.16,  27.49) PosL: -2374.00, goalPosL: -889.25, posR: 722.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515757 ( 89.32, -48.15,  27.91) PosL: -2344.00, goalPosL: -889.25, posR: 692.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515767 ( 89.32, -48.15,  28.32) PosL: -2298.00, goalPosL: -889.25, posR: 662.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515777 ( 89.32, -48.14,  28.76) PosL: -2268.00, goalPosL: -889.25, posR: 633.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515787 ( 89.32, -48.14,  29.18) PosL: -2238.00, goalPosL: -889.25, posR: 602.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515796 ( 89.32, -48.13,  29.60) PosL: -2207.00, goalPosL: -889.25, posR: 572.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515806 ( 89.32, -48.13,  30.01) PosL: -2177.00, goalPosL: -889.25, posR: 542.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515816 ( 89.32, -48.12,  30.43) PosL: -2147.00, goalPosL: -889.25, posR: 512.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515826 ( 89.32, -48.12,  30.85) PosL: -2117.00, goalPosL: -889.25, posR: 482.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515835 ( 89.27, -48.11,  31.26) PosL: -2087.00, goalPosL: -889.25, posR: 452.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515845 ( 89.32, -48.11,  31.69) PosL: -2057.00, goalPosL: -889.25, posR: 422.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515855 ( 89.27, -48.10,  32.10) PosL: -2027.00, goalPosL: -889.25, posR: 392.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515865 ( 89.27, -48.10,  32.52) PosL: -1997.00, goalPosL: -889.25, posR: 362.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515874 ( 89.27, -48.09,  32.94) PosL: -1967.00, goalPosL: -889.25, posR: 331.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515884 ( 89.27, -48.09,  33.36) PosL: -1937.00, goalPosL: -889.25, posR: 300.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515894 ( 89.32, -48.08,  33.78) PosL: -1906.00, goalPosL: -889.25, posR: 270.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515904 ( 89.21, -48.08,  34.20) PosL: -1876.00, goalPosL: -889.25, posR: 240.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515913 ( 89.27, -48.07,  34.61) PosL: -1846.00, goalPosL: -889.25, posR: 210.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515923 ( 89.27, -48.07,  35.03) PosL: -1816.00, goalPosL: -889.25, posR: 180.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515933 ( 89.27, -48.06,  35.45) PosL: -1787.00, goalPosL: -889.25, posR: 150.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515943 ( 89.32, -48.05,  35.86) PosL: -1757.00, goalPosL: -889.25, posR: 120.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515952 ( 89.32, -48.05,  36.28) PosL: -1727.00, goalPosL: -889.25, posR: 91.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515962 ( 89.32, -48.04,  36.70) PosL: -1697.00, goalPosL: -889.25, posR: 62.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515972 ( 89.21, -48.04,  37.12) PosL: -1667.00, goalPosL: -889.25, posR: 32.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515982 ( 89.16, -48.03,  37.53) PosL: -1638.00, goalPosL: -889.25, posR: 2.00, goalPosR: -783.75, goalPosSlowR: -354.03
+515991 ( 89.10, -48.03,  37.96) PosL: -1609.00, goalPosL: -889.25, posR: -27.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516001 ( 89.05, -48.02,  38.37) PosL: -1579.00, goalPosL: -889.25, posR: -58.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516011 ( 89.05, -48.01,  38.77) PosL: -1549.00, goalPosL: -889.25, posR: -87.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516020 ( 89.05, -48.01,  39.19) PosL: -1520.00, goalPosL: -889.25, posR: -116.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516030 ( 89.10, -48.00,  39.61) PosL: -1490.00, goalPosL: -889.25, posR: -146.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516040 ( 89.16, -47.99,  40.03) PosL: -1460.00, goalPosL: -889.25, posR: -176.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516050 ( 89.16, -47.99,  40.45) PosL: -1431.00, goalPosL: -889.25, posR: -206.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516060 ( 89.10, -47.98,  40.88) PosL: -1401.00, goalPosL: -889.25, posR: -237.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516069 ( 89.16, -47.98,  41.29) PosL: -1371.00, goalPosL: -889.25, posR: -266.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516079 ( 89.88, -47.97,  41.81) PosL: -1341.00, goalPosL: -889.25, posR: -296.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516089 ( 89.82, -47.97,  42.22) PosL: -1311.00, goalPosL: -889.25, posR: -326.00, goalPosR: -783.75, goalPosSlowR: -354.03
+516099 ( 89.82, -47.97,  42.64) BotStopping | tt: 0, L: -1281.00, R: -356.00, fwd
+516108 ( 89.77, -47.96,  43.07) BotStopping | tt: 0, L: -1251.00, R: -386.00, fwd
+516118 ( 89.77, -47.96,  43.47) BotStopping | tt: 0, L: -1221.00, R: -416.00, fwd
+516128 ( 89.77, -47.96,  43.89) BotStopping | tt: 0, L: -1191.00, R: -446.00, fwd
+516137 ( 89.71, -47.96,  44.30) BotStopping | tt: 0, L: -1161.00, R: -476.00, fwd
+516147 ( 89.77, -47.96,  44.72) BotStopping | tt: 0, L: -1131.00, R: -506.00, fwd
+516157 ( 89.66, -47.96,  45.12) BotStopping | tt: 0, L: -1102.00, R: -536.00, fwd
+516167 ( 89.66, -47.95,  45.54) BotStopping | tt: 0, L: -1073.00, R: -564.00, fwd
+516176 ( 89.66, -47.95,  45.93) BotStopping | tt: 0, L: -1044.00, R: -593.00, fwd
+516186 ( 89.66, -47.95,  46.32) BotStop | tt: 0, L: -1017.00, R: -620.00
+516196 ( 89.60, -47.95,  46.71) BotStop | tt: 0, L: -989.00, R: -647.00
+516206 ( 89.38, -47.94,  46.98) BotStop | tt: 0, L: -967.00, R: -668.00
+516215 ( 89.27, -47.94,  47.14) BotStop | tt: 0, L: -956.00, R: -680.00
+516225 ( 89.16, -47.94,  47.24) BotStop | tt: 0, L: -949.00, R: -686.00
+516235 ( 89.21, -47.94,  47.33) BotStop | tt: 0, L: -944.00, R: -689.00
+516245 ( 89.21, -47.94,  47.47) BotStop | tt: 0, L: -936.00, R: -695.00
+516254 ( 89.32, -47.94,  47.62) BotStop | tt: 0, L: -925.00, R: -706.00
+516264 ( 89.32, -47.93,  47.76) BotStop | tt: 0, L: -911.00, R: -720.00
+516274 ( 89.38, -47.93,  47.88) BotStop | tt: 0, L: -898.00, R: -736.00
+516284 ( 89.32, -47.93,  47.98) BotStop | tt: 0, L: -888.00, R: -748.00
+516293 ( 89.32, -47.93,  48.07) BotStop | tt: 0, L: -881.00, R: -757.00
+516303 ( 89.27, -47.93,  48.14) BotStop | tt: 0, L: -875.00, R: -764.00
+516313 ( 89.21, -47.93,  48.22) BotStop | tt: 0, L: -872.00, R: -768.00
+516323 ( 89.27, -47.93,  48.28) BotStop | tt: 0, L: -869.00, R: -772.00
+516332 ( 89.32, -47.93,  48.35) BotStop | tt: 0, L: -865.00, R: -776.00
+516342 ( 89.32, -47.93,  48.40) BotStop | tt: 0, L: -863.00, R: -780.00
+516352 ( 89.43, -47.93,  48.44) BotStop | tt: 0, L: -861.00, R: -782.00
+516361 ( 89.43, -47.93,  48.49) BotStop | tt: 0, L: -859.00, R: -785.00
+516371 ( 89.54, -47.92,  48.53) BotStop | tt: 0, L: -857.00, R: -788.00
+516381 ( 89.60, -47.92,  48.56) BotStop | tt: 0, L: -855.00, R: -790.00
+516391 ( 89.60, -47.92,  48.59) BotStop | tt: 0, L: -854.00, R: -793.00
+516400 ( 89.66, -47.92,  48.61) BotStop | tt: 0, L: -852.00, R: -795.00
+516410 ( 89.66, -47.92,  48.64) BotStop | tt: 0, L: -851.00, R: -797.00
+516420 ( 89.71, -47.92,  48.66) BotStop | tt: 0, L: -849.00, R: -799.00
+516430 ( 89.71, -47.92,  48.69) BotStop | tt: 0, L: -847.00, R: -801.00
+516439 ( 89.77, -47.92,  48.71) BotStop | tt: 0, L: -845.00, R: -803.00
+516449 ( 89.77, -47.92,  48.74) BotStop | tt: 0, L: -843.00, R: -806.00
+516459 ( 89.77, -47.92,  48.76) BotStop | tt: 0, L: -841.00, R: -808.00
+516469 ( 89.77, -47.92,  48.79) BotStop | tt: 0, L: -840.00, R: -810.00
+516478 ( 89.77, -47.92,  48.82) BotStop | tt: 0, L: -838.00, R: -
